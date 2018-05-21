@@ -1,0 +1,3 @@
+c:\users\faizal\documents\visual studio 2013\Projects\SharePointApp1\SharePointApp1\bin\Debug\SharePointApp1.pdb
+c:\users\faizal\documents\visual studio 2013\Projects\SharePointApp1\SharePointApp1\obj\Debug\SharePointApp1.dll
+c:\users\faizal\documents\visual studio 2013\Projects\SharePointApp1\SharePointApp1\obj\Debug\SharePointApp1.pdb
